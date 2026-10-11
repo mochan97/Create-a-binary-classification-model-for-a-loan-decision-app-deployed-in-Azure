@@ -1,16 +1,16 @@
-# OpenClassrooms-Project-7-Dashboard
+# Create-a-binary-classification-model-for-a-loan-decision-app-deployed-in-Azure
 
-Le dashboard (frontend) est réalisé avec Streamlit.<br><br>
+The dashboard (frontend) was developed with Streamlit.<br><br>
 
-Pour lancer le dashboard en local:<br>
-1. Avec l'aide d'un terminal, se positioner dans le dossier où se trouve le fichier dashboard.py qui contient le code du dashboard. Le endpoint pour l'API du modèle est déjà déployé avec MLflow en local et sur Azure dans le cloud : https://github.com/mochan97/OpenClassrooms-Project-7-API-ML-Flow<br>
-2. Lancer l'environnment Python avec les librairies installées avec le package manager conda : `conda activate`.<br>
-3. Lancer le dashboard avec la commande `streamlit run dashboard.py`<br><br>
+To run the dashboard locally :<br>
 
+1. Using a terminal, navigate to the folder containing the dashboard.py file, which contains the dashboard code. The endpoint for the model API has already been deployed with MLflow, both locally and on Azure in the cloud: https://github.com/mochan97/OpenClassrooms-Project-7-API-ML-Flow
+2. Activate the Python environment with the libraries installed via the Conda package manager: conda activate.
+3. Start the dashboard with the command streamlit run dashboard.py.
 
-🟢 Le deploiement sur Azure du dashboard est fonctionnel.<br>
-Pour lancer le dashboard deployé sur Azure Web App:<br>
-* lien : (mise à jour pour la soutenance)<br>
+🟢 Deployement on Azure of the dashboard is functional.<br>
+To run the deployed dashboard deployed on Azure Web App:<br>
+* link : (Updated for the project defense)<br>
 
 
 https://user-images.githubusercontent.com/124714195/221136751-edba765f-8dea-4616-9091-52c353865829.mov
